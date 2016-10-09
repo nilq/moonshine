@@ -4,4 +4,4 @@ Projects made using ConvNetMoon.
 
 ---
 
-![The truth](https://imgflip.com/i/1c1tdi)
+![The truth](https://i.imgflip.com/1c1tdi.jpg)
