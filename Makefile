@@ -1,6 +1,6 @@
 build:
 	moonc */*.moon
 
-imagereg:
-	moonc image_regression/*.moon
-	love image_regression
+stuff:
+	moonc reinforcement.moon
+	love .
